@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.txt": "plaintext",
+        "*.asm": "asm-intel-x86-generic",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "dynamicstringlist.h": "c"
+    }
+}
